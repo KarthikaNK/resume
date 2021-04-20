@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">  
+</head>
+
+<body>
+  <header>
+    <h1>RESUME</h1>
+  </header>
+  <div class="top">
+    <p>KARTHIKA N KURUP</p>
+    <address>Karthika,<br>Pathanamthitta,<br>Kerala</address>  
+    <p>Email id:<a href="mailto:kathunk10@gmail.com">kathunk10@gmail.com</a></p>
+    <p>Mobile:9497886987</p>    
+  </div>
+  <hr>
+  <h3>OBJECTIVE</h3>
+  <p class="common">To get a good position in a progressive company to implement my knowledge and to grow along with the organization.</p>
+  <h3>EDUCATIONAL BACKGROUND</h3>
+  <table class="common">
+    <tr>
+        <th>DEGREE</th>
+        <th>INSTITUTION</th>
+        <th>PERCENTAGE</th>
+        <th>YEAR OF PASSING</th>
+    </tr>
+    
+    <tr>
+        <td>B.TECH(ECE) </td>
+        <td>College Of Engineering,Chengannur</td>
+        <td>9.05</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>HSE</td>
+        <td>Eminence Public School</td>
+        <td>93.4</td>
+        <td>2016</td>
+    </tr>
+    <tr>
+        <td>SSLC</td>
+        <td>Eminence Public School</td>
+        <td>10</td>
+        <td>2014</td>
+    </tr>   
+  </table>
+  <h3>SOFTWARE SKILLS</h3>
+  <h4 class="common">Basic knowledge in:</h4>
+  <ul>  
+    <li>C</li>
+    <li>C++</li>
+    <li>Python</li>
+    <li>SQL</li>
+  </ul>
+  <h3>OTHER DETAILS</h3>
+  
+    <ul style="padding-left:30px ;">
+      <li>LANGUAGES KNOWN:English,Malayalam</li>
+      <li>GENDER:Female</li>
+      <li>HOBBIES:Listening songs</li>
+    </ul>
+  
+  <h3>DECLARATION</h3>
+  <div class="common">
+    <p>I hereby solemnly declared that all statements are given above are true and correct to the best of my knowledge and belief.</p>
+    <p>PLACE:</p>
+    <p>DATE:</p>
+  </div>
+</body>
+</html>

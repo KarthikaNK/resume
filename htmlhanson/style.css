@@ -1,0 +1,22 @@
+*{
+    margin-left:5px;
+}
+header{
+    text-align:center
+}
+
+h3{
+    background-color: rgba(192,192,192,0.9);
+    text-indent: 4px;
+}
+.common{
+    margin-left:25px;
+}
+table,th,td{
+    border:2px solid black;
+    border-collapse:collapse;
+    padding:5px;
+}
+tr{
+    text-align: justify;
+}
